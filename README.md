@@ -13,6 +13,6 @@
 - Trade with limits on your exchanges and also with expiry time. 
 - Trade with alertes on your exchanges.
 #
-# Demo can be download after donation on any erc20/bep20 assets  
+-Demo can be download after donation on any erc20/bep20 assets  
 # 
 0x57865E64A093F068bdEF63B05dcD4dA5b1A81468
