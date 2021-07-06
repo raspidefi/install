@@ -6,7 +6,7 @@
 - Connect your exchanges to the portfolio manager and check your performance everyday.
 - Connect your metamask adresses and manage your assets.
 # 
-- Manage your Watchlist , and nobody know what you are doing.
+- Manage your Watchlist by yourself.
 - Put alerts to your favorites assets and get emails when targets are reached.
 #
 - Trade with markets on your exchanges.
